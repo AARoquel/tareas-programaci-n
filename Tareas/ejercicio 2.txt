@@ -1,0 +1,34 @@
+Algoritmo para:
+
+a- Sacar a pasear a un perro
+
+1. Agarrar la correa del perro.
+2. Poner correa al perro.
+3. Guiar al perro
+3. Dirigirse a la puerta.
+4. Abrir la puerta.
+5. Salir de la casa.
+6. Comenzar a caminar.
+7. Rodear las cuadras de la casa
+8. Llegar a la puerta de la casa nuevamente.
+9. Abrir la puerta.
+10. Entrar a la casa.
+11. Quitarle la correa al perro.
+
+b- Limpiar un acuario con peces
+
+1. Desenchufar los elementos electrónicos de la pecera.
+2. Agarrar la red para sacar a los peses.
+3. Introducir la red en la pecera a limpiar.
+4. Atrapar a los peces.
+5. Sacar la red de pesca con los peces adentro.
+6. Depositar a los peces dentro de un recipiente con agua limpia.
+7. Vaciar el agua de la pecera sucia.
+8. Llena nuevamente la pecera con agua limpia.
+9. Agarrar la red para sacar a los peces.
+10. Introducir la red en el recipiente donde se depositaron los peces.
+11. Atrapar a los peces.
+12. Sacar la red de pesca con los peces adentro.
+13. Depositar a los peces dentro de la pecera limpia.
+14. Sacar la red.
+15 Encender los elementos electrónicos.
